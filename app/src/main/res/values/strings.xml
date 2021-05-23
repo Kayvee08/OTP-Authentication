@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OTP</string>
+    <string name="didnt_get_code">Didn\'t get code? <b>Resend</b></string>
+</resources>
